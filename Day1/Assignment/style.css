@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    background-color: #333;
+}
+
+.batmanIcon {
+    height: 300px;
+    width: 300px;
+}
+
+#display {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#insideDisplay{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 20px;
+}
